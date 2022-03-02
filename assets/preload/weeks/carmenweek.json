@@ -1,0 +1,31 @@
+{
+	"storyName": "carmen winstead",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"unshared",
+			"carmen1",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "carmen lol"
+}
