@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "exampleStage",
+		"player1": "bf",
+		"player2": "carmen1",
+		"player3": null,
+		"events": [
+			[
+				4725,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				23925,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100725,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"carmen2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "unshared"
+	}
+}
